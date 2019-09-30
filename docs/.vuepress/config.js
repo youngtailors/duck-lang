@@ -9,6 +9,7 @@ module.exports = {
                 title: 'Học dart',
                 children: [
                     '/guides/samples-and-tutorials/language-samples',
+                    '/guides/samples-and-tutorials/tutorials',
                 ]
             }
         ]
