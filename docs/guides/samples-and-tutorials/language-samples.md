@@ -1,13 +1,13 @@
 # Học Dart thông qua xem ví dụ
 
-Phương pháp này sẽ giới thiệu ngắn gọn về ngôn ngữ cho những ai thích học qua ví dụ. Bạn cũng có thể học ngôn ngữ và xem các thư viện, hoặc [Dart cheatsheet codelab](https://dart.dev/codelabs/dart-cheatsheet) tại:
+Phương pháp này sẽ giới thiệu ngắn gọn về ngôn ngữ dart cho những ai thích học qua ví dụ. Bạn cũng có thể học ngôn ngữ cụ thể và xem các thư viện, hoặc [Dart cheatsheet codelab](https://dart.dev/codelabs/dart-cheatsheet) tại:
 
-> [Học ngôn ngữ](https://dart.dev/codelabs/dart-cheatsheet)
+> [Language tour](https://dart.dev/codelabs/dart-cheatsheet)
 
-> [Xem thư viện](https://dart.dev/codelabs/dart-cheatsheet)
+> [Library tour](https://dart.dev/codelabs/dart-cheatsheet)
 
 ## Hello World
-Mọi ứng dụng đều cần có hàm **main()**. Để hiển thị văn bản trên console bạn có thẻ sử dụng hàm **print()**:
+Mọi ứng dụng đều cần sử dụng hàm **main()**. Để hiển thị văn bản trên console bạn có thẻ sử dụng hàm **print()**:
 ```dart
 void main() {
     print('Hello World');
